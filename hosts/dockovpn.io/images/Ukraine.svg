@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 80 80" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M40.0006 17.3678C40.0006 17.3678 33.8447 2.71192 20.3805 8.45737C-19.8022 25.6042 39.9987 72.8615 39.9987 72.8615C39.9987 72.8615 99.8067 25.6042 59.624 8.45737C46.1599 2.71192 40.0006 17.3678 40.0006 17.3678Z" id="Fill"/>
+</defs>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path d="M27.3599 4.27524C24.8669 4.12118 22.1326 4.57083 19.2404 5.805C13.8856 8.09001 9.98308 10.9798 7.39453 14.4148C4.79718 17.8614 3.63505 21.7639 3.60935 25.7311C3.55838 33.5933 7.67505 41.595 12.7683 48.756C23.0125 63.1591 38.1333 75.0619 38.2251 75.1345C39.2701 75.9603 40.7299 75.9603 41.7749 75.1345C41.8712 75.0585 56.9856 63.1592 67.2317 48.756C72.332 41.5864 76.4408 33.5861 76.3907 25.7311C76.3654 21.7745 75.2276 17.8685 72.6251 14.4148C70.0336 10.9756 66.1124 8.08914 60.7596 5.805C52.8595 2.43385 46.6387 5.13361 42.8144 8.62917C41.6217 9.71932 40.7323 10.7825 40.0098 11.7671C39.2822 10.7813 38.3824 9.7233 37.1856 8.62917C35.3109 6.91511 32.8478 5.33294 29.7722 4.62826C28.992 4.44951 28.1815 4.32602 27.3599 4.27524Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g opacity="1">
+<use fill="#e94420" fill-rule="nonzero" opacity="1" stroke="none" xlink:href="#Fill"/>
+<clipPath id="ClipPath">
+<use xlink:href="#Fill"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<g opacity="1">
+<path d="M-19.1196-8.78464L99.1241-8.78464L99.1241 40.0604L-19.1196 40.0604L-19.1196-8.78464Z" fill="#fddf19" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M-19.1196 40.0604L99.1241 40.0604L99.1241 88.9055L-19.1196 88.9055L-19.1196 40.0604Z" fill="#3e68ff" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
