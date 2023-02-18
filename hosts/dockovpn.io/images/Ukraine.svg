@@ -15,8 +15,8 @@
 </clipPath>
 <g clip-path="url(#ClipPath)">
 <g opacity="1">
-<path d="M-19.1196-8.78464L99.1241-8.78464L99.1241 40.0604L-19.1196 40.0604L-19.1196-8.78464Z" fill="#fddf19" fill-rule="nonzero" opacity="1" stroke="none"/>
-<path d="M-19.1196 40.0604L99.1241 40.0604L99.1241 88.9055L-19.1196 88.9055L-19.1196 40.0604Z" fill="#3e68ff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M-19.1196 88.9055L99.1241 88.9055L99.1241 40.0604L-19.1196 40.0604L-19.1196 88.9055Z" fill="#fddf19" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M-19.1196 40.0604L99.1241 40.0604L99.1241-8.78464L-19.1196-8.78464L-19.1196 40.0604Z" fill="#3e68ff" fill-rule="nonzero" opacity="1" stroke="none"/>
 </g>
 </g>
 </g>
