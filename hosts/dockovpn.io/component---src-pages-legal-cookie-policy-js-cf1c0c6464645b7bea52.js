@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkdockovpn_io=self.webpackChunkdockovpn_io||[]).push([[980],{1032:function(o,u,c){c.r(u);c(7294);var e=c(9124);u.default=()=>(0,e.tZ)("h1",null,"Our Cookie Policy")}}]);
-//# sourceMappingURL=component---src-pages-legal-cookie-policy-js-cf1c0c6464645b7bea52.js.map
