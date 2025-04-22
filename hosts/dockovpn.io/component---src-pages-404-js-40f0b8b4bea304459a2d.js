@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdockovpn_io=self.webpackChunkdockovpn_io||[]).push([[125],{3331:function(n,o,u){u.r(o);u(6540);var e=u(9331);o.default=()=>(0,e.Y)("div",null,"Page not found")}}]);
+//# sourceMappingURL=component---src-pages-404-js-40f0b8b4bea304459a2d.js.map
